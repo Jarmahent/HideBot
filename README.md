@@ -1,0 +1,4 @@
+# HideBot
+HideBot for Slack
+
+
